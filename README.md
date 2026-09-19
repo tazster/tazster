@@ -22,9 +22,9 @@ I also publish conceptual solution design blueprints and reference architectures
 - Engineered a 60% increase in developer platform adoption across 30,000+ global users
 - Directed infrastructure capacity planning with a budget of over $157M across global business units
 
-### Certifications
+### Education & Certifications
 
-AWS Solutions Architect | Prince2 | Professional Scrum Master (PSM) | Professional Scrum Product Owner (PSPO) | Product School Certified Product Manager | ITIL V3 | P3O | Lean Six Sigma Yellow Belt
+Postgraduate Certificate in Technology Management (Distinction) | Open University | AWS Solutions Architect | Prince2 | Professional Scrum Master (PSM) | Professional Scrum Product Owner (PSPO) | Product School Certified Product Manager | ITIL V3 | P3O | Lean Six Sigma Yellow Belt
 
 ### Key Skills
 
